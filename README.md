@@ -12,7 +12,8 @@ Provides a tool to fetch ARAM build details for champions from a source website.
 Enter the champion name: singed
 
 [INFO] Title of the page for singed is: Singed ARAM Build 13.19 - Runes & Items - LoL
-'
+
+
 Weapons for SINGED:
  - Rod of Ages
  - Mercury's Treads
