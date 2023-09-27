@@ -1,5 +1,5 @@
 # LoL Champion ARAM Build Scraper 🛡️
-Provides a tool to fetch ARAM build details for champions from [a website.](https://www.metasrc.com/)
+Provides a tool to fetch ARAM build details for champions from [website.](https://www.metasrc.com/)
 
 ## Features 🚀:
 - 📖 Fetch the **title** of the champion-specific page.
